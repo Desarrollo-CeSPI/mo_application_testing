@@ -1,10 +1,10 @@
-# mo_application_testing-cookbook
+# mo_application_testing cookbook
 
-TODO: Enter the cookbook description here.
+Prepares a server to be a testing server for ruby and php
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Ubuntu 
 
 ## Attributes
 
