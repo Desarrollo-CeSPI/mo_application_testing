@@ -1,0 +1,10 @@
+name             'mo_application_testing'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures mo_application_testing'
+long_description 'Installs/Configures mo_application_testing'
+version          '1.0.0'
+
+depends         'mo_application_php',   '~> 1.0.0'
+depends         'mo_application_ruby',  '~> 1.0.0'
