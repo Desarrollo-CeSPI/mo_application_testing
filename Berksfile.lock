@@ -91,7 +91,7 @@ GRAPH
     mo_application (~> 1.1.0)
     rbenv (~> 1.7.1)
     sudo (~> 2.7.1)
-  mo_application_testing (1.1.0)
+  mo_application_testing (1.2.0)
     mo_application_php (~> 1.1.0)
     mo_application_ruby (~> 1.1.0)
   mo_backup (0.1.34)
