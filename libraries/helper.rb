@@ -2,6 +2,7 @@ def php_testing_applications
   mo_testing_apps_from_databag 'mo_application_testing' do |data|
     mo_application_deploy data, :mo_application_php
     mo_application_php_monitoring data
+    mo_application_php_statistics data
   end
 end
 
