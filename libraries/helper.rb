@@ -11,6 +11,8 @@ def ruby_testing_applications
     data['dotenv'] ||= {'PATH' => '$PATH', 'HOME' => '$HOME', 'SECRET_KEY_BASE' => SecureRandom.hex(64),'RAILS_ENV' => 'production'}
     data['services'] ||= {'*' => nil }
     ruby_application data
+    mo_application_ruby_monitoring data
+    mo_application_ruby_statistics data
   end
 end
 
